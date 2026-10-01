@@ -14,13 +14,9 @@ Repository: [https://github.com/softwaredevX/nua-test-task](https://github.com/s
 
 ### Video Walkthrough
 
-<p align="center">
-  <video src="./assets/screenshots/app_demo.mp4" controls="controls" width="100%" style="max-width: 720px; border-radius: 8px;">
-    <source src="./assets/screenshots/app_demo.mp4" type="video/mp4" />
-    <source src="https://github.com/softwaredevX/nua-test-task/raw/main/assets/screenshots/app_demo.mp4" type="video/mp4" />
-    Your browser does not support the video tag.
-  </video>
-</p>
+A complete end-to-end screen recording walkthrough demonstrating catalog pagination, debounced search, product details, offline WebView return policy, and cart management:
+
+- **[Watch Walkthrough Video (app_demo.mp4)](https://github.com/softwaredevX/nua-test-task/blob/main/assets/screenshots/app_demo.mp4)**
 
 ---
 
